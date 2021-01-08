@@ -1,0 +1,146 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body {
+	background-color: #336633;
+}
+
+#headder{
+	padding: 0.3%;
+	background-color: #003333;
+	color: white;
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold; 
+	}
+
+#pro_pic{
+	margin: 40px 10px;
+	width: 150px;
+	height: 150px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+	}
+#name{
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Brush Script MT', cursive;
+	color: #000033;
+}
+#dis{
+	font-size: 24px;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Brush Script MT', cursive;
+	color: #161616;
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+#hr1{
+	margin-left: 31%;
+	margin-right: 31%;
+	border-top: 1px solid black;
+}
+
+#quote{
+	padding-top: 20px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px
+	
+}
+
+#quote_dis{
+	text-align: center;
+	font-family: 'Brush Script MT', cursive;
+	font-size: 24px;
+	color: #161616;
+	font-weight: bold;
+
+}
+
+#sa{
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 20px;
+	}
+
+table, th{
+	width: 10% ;
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+
+
+}
+
+.img {
+	width: 20px;
+	padding-top: 5px;
+	margin: 5%;
+	;
+
+}
+
+#social_account{
+	table-layout: fixed;
+}
+
+.img1 {
+	width: 20px;
+	padding-top: 5px;
+	margin: auto %;
+	
+	border: 5px slid red;
+	
+	}
+#dis2{
+	font-size: 18px;
+	text-align: center;
+	margin: 2%;
+}
+
+button{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background: transparent;
+	font-size: 16px;
+	font-weight: bold;
+	}
+
+#hr2{
+	margin-left: 6%;
+	margin-right: 6%;
+	margin: 2%;
+	}
+
+#button2{
+	font-size: 20px;
+	padding-bottom: 6px;
+	
+}
+
+
+
+#box1{
+	border: 2px solid red;
+	margin: 5%;
+	padding: 20px;
+	width: 250px;
+	height: 250px;
+}
+
+#box2{
+	border: 2px solid red;
+	margin: 5%;
+	padding: 20px;
+	width: 300px;
+	height: 250px;
+}
